@@ -1,0 +1,5 @@
+Christian salazar 64124
+Andres Garcia 50266
+Nicolas Arias 39586
+punto 1:
+el programa imprime la variable x=4, y=7 y la funcion f(x,y) es la suma de x+y, f(x,y)=11
